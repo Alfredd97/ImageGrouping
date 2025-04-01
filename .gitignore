@@ -36,10 +36,5 @@ env/
 Thumbs.db
 
 # Project specific
-images/
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
+images/*
 !images/.gitkeep 
